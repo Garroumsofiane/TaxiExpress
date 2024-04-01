@@ -54,6 +54,8 @@ img
     align-items: center;
     background-color: red;
     justify-content: space-around;
+    position: sticky;
+    bottom: 50px;
 }
 .tel 
 {
