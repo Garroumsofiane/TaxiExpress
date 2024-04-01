@@ -28,6 +28,8 @@ img
 {
     width: -webkit-fill-available;
     border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
 }
 .decoration
 {
@@ -58,6 +60,8 @@ img
     position: sticky;
     bottom: 50px;
     border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
 }
 .tel 
 {
