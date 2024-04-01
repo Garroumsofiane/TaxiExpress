@@ -27,6 +27,7 @@ header
 img
 {
     width: -webkit-fill-available;
+    border-radius: 20px;
 }
 .decoration
 {
@@ -56,6 +57,7 @@ img
     justify-content: space-around;
     position: sticky;
     bottom: 50px;
+    border-radius: 20px;
 }
 .tel 
 {
